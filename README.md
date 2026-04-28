@@ -2,6 +2,8 @@
 
 Statisches Archiv der Original-Website [ursprung.howlers.ch](https://ursprung.howlers.ch).
 
+👉 **[Archiv ansehen](https://laenzlinger.github.io/ursprung-howlers-ch/)**
+
 Aktuelle Website: [www.howlers.ch](https://www.howlers.ch)
 
 ## Lokal anschauen
