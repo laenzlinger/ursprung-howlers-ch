@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Seite nicht gefunden – B&W Chocolate Howlers Archiv</title>
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="favicon.jpg">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <h1>B&W Chocolate Howlers</h1>
+    <p class="subtitle">Archiv der Original-Website (2012–2024)</p>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="bio.html">Bio</a>
+      <a href="konzerte.html">Konzerte</a>
+      <a href="songs.html">Songs</a>
+      <a href="presse.html">Presse</a>
+      <a href="bilder.html">Bilder</a>
+      <a href="videos.html">Videos</a>
+      <a href="kontakt.html">Kontakt</a>
+      <a href="links.html">Links</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section id="404">
+    <div class="content" style="text-align: center; padding: 4rem 1rem;">
+      <h2 style="font-size: 6rem; color: var(--accent); margin-bottom: 1rem;">404</h2>
+      <h3 style="color: var(--fg); margin-bottom: 1.5rem;">Seite nicht gefunden</h3>
+      <p style="color: var(--muted); max-width: 500px; margin: 0 auto 2rem;">
+        Die gesuchte Seite existiert nicht oder wurde verschoben.
+        Vielleicht hilft dir die Navigation oben oder einer der Links unten.
+      </p>
+      <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin-bottom: 2rem;">
+        <a href="index.html" style="background: var(--accent); color: #111; padding: 0.75rem 1.5rem; border-radius: 4px; text-decoration: none;">🏠 Zur Startseite</a>
+        <a href="bio.html" style="background: var(--card-bg); color: var(--fg); border: 1px solid var(--accent); padding: 0.75rem 1.5rem; border-radius: 4px; text-decoration: none;">📖 Biographie</a>
+        <a href="songs.html" style="background: var(--card-bg); color: var(--fg); border: 1px solid var(--accent); padding: 0.75rem 1.5rem; border-radius: 4px; text-decoration: none;">🎵 Songs hören</a>
+        <a href="bilder.html" style="background: var(--card-bg); color: var(--fg); border: 1px solid var(--accent); padding: 0.75rem 1.5rem; border-radius: 4px; text-decoration: none;">🖼️ Bilder</a>
+      </div>
+      <p style="color: var(--muted); font-size: 0.9rem;">
+        Aktuelle Website: <a href="https://www.howlers.ch" style="color: var(--accent);">www.howlers.ch</a>
+      </p>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <p>© 2012–2024 B&W Chocolate Howlers · Dieses Archiv bewahrt den Inhalt der Original-Website ursprung.howlers.ch</p>
+  <p>Aktuelle Website: <a href="https://www.howlers.ch">www.howlers.ch</a> · <a href="http://www.facebook.com/chocolatehowlers/">Facebook</a></p>
+</footer>
+
+</body>
+</html>

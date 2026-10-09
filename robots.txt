@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://laenzlinger.github.io/ursprung-howlers-ch/sitemap.xml
