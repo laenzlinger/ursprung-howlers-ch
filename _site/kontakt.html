@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kontakt – B&W Chocolate Howlers Archiv</title>
+  <meta name="description" content="Kontakt & Buchung für die B&W Chocolate Howlers: Aktuelle Website www.howlers.ch oder Facebook für Konzerte und Anfragen.">
+  <link rel="icon" href="favicon.jpg">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <h1>B&W Chocolate Howlers</h1>
+    <p class="subtitle">Archiv der Original-Website (2012–2024)</p>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="bio.html">Bio</a>
+      <a href="konzerte.html">Konzerte</a>
+      <a href="songs.html">Songs</a>
+      <a href="presse.html">Presse</a>
+      <a href="bilder.html">Bilder</a>
+      <a href="videos.html">Videos</a>
+      <a href="kontakt.html">Kontakt</a>
+      <a href="links.html">Links</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+<!-- KONTAKT -->
+<section id="kontakt">
+  <h2>Kontakt</h2>
+  <div class="content">
+    <p>Willst Du mit uns in Kontakt treten? Uns für ein Konzert buchen?</p>
+    <p>Besuche unsere aktuelle Website: <a href="https://www.howlers.ch" rel="noopener">www.howlers.ch</a></p>
+    <p>Oder finde uns auf <a href="http://www.facebook.com/chocolatehowlers/" rel="noopener">Facebook</a>.</p>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <p>© 2012–2024 B&W Chocolate Howlers · Dieses Archiv bewahrt den Inhalt der Original-Website ursprung.howlers.ch</p>
+  <p>Aktuelle Website: <a href="https://www.howlers.ch">www.howlers.ch</a> · <a href="http://www.facebook.com/chocolatehowlers/">Facebook</a></p>
+</footer>
+<script>
+  (function() {
+    var path = location.pathname.split('/').pop() || 'index.html';
+    var link = document.querySelector('nav a[href="' + path + '"]');
+    if (link) link.classList.add('current');
+  })();
+</script>
+
+</body>
+</html>

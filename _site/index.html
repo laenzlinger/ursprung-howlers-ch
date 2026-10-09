@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>B&W Chocolate Howlers – Archiv</title>
+  <meta name="description" content="Archiv der Original-Website der B&W Chocolate Howlers (2012–2024). Blues, Swing, Jazz, Chanson – handgemachte Musik aus vergangenen Zeiten.">
+  <link rel="icon" href="favicon.jpg">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <h1>B&W Chocolate Howlers</h1>
+    <p class="subtitle">Archiv der Original-Website (2012–2024)</p>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="bio.html">Bio</a>
+      <a href="konzerte.html">Konzerte</a>
+      <a href="songs.html">Songs</a>
+      <a href="presse.html">Presse</a>
+      <a href="bilder.html">Bilder</a>
+      <a href="videos.html">Videos</a>
+      <a href="kontakt.html">Kontakt</a>
+      <a href="links.html">Links</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+<!-- HOME -->
+<section id="home">
+  <div class="hero">
+    <img src="images/home-trio.jpg" alt="B&W Chocolate Howlers im Trio" class="hero-img">
+    <div class="hero-overlay">
+      <h2>LET'S DO THE OLD STUFF!</h2>
+      <p class="tagline">– BLUES, SWING, JAZZ, CHANSON …</p>
+    </div>
+  </div>
+  <div class="content">
+    <p>Von den Sümpfen am Mississippi über New Orleans und New York der 20-er Jahre bis nach Frankreich in die 50-er bis 80-er reicht das musikalische Repertoire der B&W Chocolate Howlers. Blues, Ragtime, Swing, Chanson und weitere erlesene Perlen neuerer Zeit servieren die B&W Chocolate Howlers, von zuckersüss bis bitterzart.</p>
+    <p>Die B&W Chocolate Howlers präsentieren sich nicht nur durch die Vielseitigkeit der Musikstile, den abwechslungsreichen Vortragsarten der Sänger sowie der Instrumentalnummern, sondern vor allem durch ihre Ehrlichkeit und Liebe zur handgemachten Musik.</p>
+    <p>Wir spielen regelmässig, in Kultur-Kaffées, in Beizen oder Privat und können mittlerweile auf über 150 Konzerte zurückblicken.</p>
+    <p>Wir hatten auch das Vergnügen und die Ehre von Januar 2013 bis Dezember 2018 Gastgeber der monatlichen Acoustic Blues Jam Sessions in der B&B Bar in Effretikon zu sein.</p>
+    <img src="images/home-concert.jpg" alt="B&W Chocolate Howlers Konzert" class="content-img">
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <p>© 2012–2024 B&W Chocolate Howlers · Dieses Archiv bewahrt den Inhalt der Original-Website ursprung.howlers.ch</p>
+  <p>Aktuelle Website: <a href="https://www.howlers.ch">www.howlers.ch</a> · <a href="http://www.facebook.com/chocolatehowlers/">Facebook</a></p>
+</footer>
+<script>
+  (function() {
+    var path = location.pathname.split('/').pop() || 'index.html';
+    var link = document.querySelector('nav a[href="' + path + '"]');
+    if (link) link.classList.add('current');
+  })();
+</script>
+
+</body>
+</html>
