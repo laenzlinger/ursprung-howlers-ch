@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Presse – B&W Chocolate Howlers Archiv</title>
+  <meta name="description" content="Presse-Berichte über die B&W Chocolate Howlers: Artikel aus Züri-Oberländer, Landbote, Wiler Zeitung, InfoWil+ (2013–2017).">
+  <link rel="icon" href="favicon.jpg">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!--#include virtual="partials/header.html" -->
+
+<main>
+
+<!-- PRESSE -->
+<section id="presse">
+  <h2>Presse</h2>
+  <div class="content">
+    <h3>Presse-Stimmen</h3>
+    <ul class="press-list">
+      <li>
+        <strong>Kino-Konzert in Uzwil, 11. April 2017</strong>
+        <ul>
+          <li>Bericht im InfoWil+: <a href="presse/Zum-Heulen-schoen.pdf">Zum Heulen schön!</a></li>
+          <li>Bericht in Wiler Zeitung: <a href="http://www.wilerzeitung.ch/ostschweiz/stgallen/wil/Der-Sound-der-goldenen-20er-Jahre;art262,4955329" rel="noopener">Der Sound der goldenen 20er-Jahre</a></li>
+        </ul>
+      </li>
+      <li><strong>Jam Session in der B&B Bar, 11. Februar 2017</strong> – <a href="presse/ZOL-Feb17.pdf">Bericht im Züri-Oberländer</a></li>
+      <li>
+        <strong>Jam Session in der B&B Bar, 8. Februar 2014</strong>
+        <ul>
+          <li><a href="presse/Landbote-Feb14.pdf">Bericht im Landbote</a></li>
+          <li><a href="presse/ZOL-Feb14.pdf">Bericht im Zürich-Oberländer</a></li>
+        </ul>
+      </li>
+      <li><strong>Jam Session in der B&B Bar, 9. Februar 2013</strong> – <a href="presse/ZOL-Feb13.pdf">Bericht im Zürich-Oberländer</a></li>
+    </ul>
+  </div>
+</section>
+
+</main>
+
+<!--#include virtual="partials/footer.html" -->
+
+</body>
+</html>

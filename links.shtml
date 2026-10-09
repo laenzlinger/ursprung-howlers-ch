@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Links – B&W Chocolate Howlers Archiv</title>
+  <meta name="description" content="Links der B&W Chocolate Howlers: B&B Bar Effretikon, Gasthaus Schlosshalde, Winterthurer Vocalensemble, Röné Bringold Photography, Urs Oskar Keller.">
+  <link rel="icon" href="favicon.jpg">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!--#include virtual="partials/header.html" -->
+
+<main>
+
+<!-- LINKS -->
+<section id="links">
+  <h2>Links</h2>
+  <div class="content">
+    <dl class="links-list">
+      <dt><a href="http://b-und-b-bar.ch" rel="noopener">B&B Bar in Effretikon</a></dt>
+      <dd>Regelmässige Blues Konzerte… und v.a. (fast) JEDEN 2. SAMSTAG VOM MONAT eine tolle JAM SESSION</dd>
+
+      <dt><a href="http://www.schlosshalde-winterthur.ch" rel="noopener">Gasthaus Schlosshalde</a></dt>
+      <dd>Phänomenale Küche und Weine, hochstehende Kultur-Veranstaltungen. Wir haben immer wieder die Ehre hier spielen zu dürfen.</dd>
+
+      <dt><a href="http://winterthur-vokalensemble.ch/index.html" rel="noopener">Winterthurer Vocalensemble</a></dt>
+      <dd>Ensemble, in welcher Irène mitsingt; Musik aus der Zeit der Renaissance und des Barocks.</dd>
+
+      <dt><a href="http://www.bringold.com/WebHome" rel="noopener">Röné Bringold – Fine Art Photography</a></dt>
+      <dd>Hat traumhafte Fotos von uns im Haus der Gewesenen Zeit gemacht.</dd>
+
+      <dt><a href="http://www.urs-ok.ch" rel="noopener">Urs Oskar Keller / Pro Litteris</a></dt>
+      <dd>Urs hat schöne Aufnahmen von uns gemacht und sie uns freundlicherweise zur Verfügung gestellt.</dd>
+    </dl>
+  </div>
+</section>
+
+</main>
+
+<!--#include virtual="partials/footer.html" -->
+
+</body>
+</html>

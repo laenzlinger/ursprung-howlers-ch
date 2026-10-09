@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kontakt – B&W Chocolate Howlers Archiv</title>
+  <meta name="description" content="Kontakt & Buchung für die B&W Chocolate Howlers: Aktuelle Website www.howlers.ch oder Facebook für Konzerte und Anfragen.">
+  <link rel="icon" href="favicon.jpg">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!--#include virtual="partials/header.html" -->
+
+<main>
+
+<!-- KONTAKT -->
+<section id="kontakt">
+  <h2>Kontakt</h2>
+  <div class="content">
+    <p>Willst Du mit uns in Kontakt treten? Uns für ein Konzert buchen?</p>
+    <p>Besuche unsere aktuelle Website: <a href="https://www.howlers.ch" rel="noopener">www.howlers.ch</a></p>
+    <p>Oder finde uns auf <a href="http://www.facebook.com/chocolatehowlers/" rel="noopener">Facebook</a>.</p>
+  </div>
+</section>
+
+</main>
+
+<!--#include virtual="partials/footer.html" -->
+
+</body>
+</html>

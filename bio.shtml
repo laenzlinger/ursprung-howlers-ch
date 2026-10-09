@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Biographie – B&W Chocolate Howlers Archiv</title>
+  <meta name="description" content="Biographie der B&W Chocolate Howlers: Von den Lakeside Howlers (2009) über sechs Generationen bis zum heutigen Duo mit Christof Länzlinger und Irène Capello.">
+  <link rel="icon" href="favicon.jpg">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!--#include virtual="partials/header.html" -->
+
+<main>
+
+<!-- BIO -->
+<section id="bio">
+  <h2>Biographie</h2>
+  <div class="content">
+    <p>Im Frühjahr 2009 lernte Frank Ziegler (Guitaren, Mandolin, Bass, Ukulele, Gesang), im Rahmen eines Blues-Guitaren-Workshops in Sedrun, Stefan Sutter kennen. Zu zweit übten sie alte Blues-Songs und beschlossen dann, ihr Können vor Publikum zu zeigen.</p>
+    <p>Ende 2009 stiess Irène Capello (Ukulele, Banjolele, singende Säge, Melodica, Akkordeon, Bass, Gesang) dazu und die erste Howlers Formation, die „Lakeside Howlers" gaben am Silvester 2009 ihr Debütkonzert.</p>
+    <p>Zu den „Lakeside Howlers" gesellten sich noch eine Fiddle, ein Bass und eine Percussion, sodass die Formation zu einem Sextett heranwuchs.</p>
+    <p>Nachdem sich mitte 2011 die „Lakeside Howlers" auflösten, beschlossen Frank und Irène einen Neuanfang und gründeten die B&W Chocolate Howlers. Auch diese Formation wuchs zwischenzeitlich zu einem Sextett zusammen.</p>
+    <p>Seit Sommer 2014 gehört Christoph Länzlinger (Gitarren, Bass, Ukulele) zum Kern der B&W Chocolate Howlers. Seither spielten die Howlers in unterschiedlichen Formationen, mit diversen Gastmusikern aus der Schweiz und benachbarten Länder.</p>
+
+    <div class="memorial">
+      <img src="images/bio-frank-memorial.jpg" alt="Frank Ziegler">
+      <p>Im Herbst 2020 ist Frank Ziegler viel zu früh von der irdischen Bühne abgetreten. Im Geiste sind wir jedoch immer mit unserem Gründer, Freund, Mitmusiker, Mentor und Mann verbunden. Wir möchten sogut wie möglich in Sinne von Frank weiter Musik machen. Wir wollen sein Erbe würdevoll – hoffentlich – weitertragen. <strong>DANKE Frank!</strong></p>
+    </div>
+
+    <div class="bio-current">
+      <img src="images/bio-duo-new.jpg" alt="Christof und Irène">
+      <p>Nun sind die B&W Chocolate Howlers meist im Duo unterwegs. Christof Länzlinger und Irène Capello spielen auf Gitarren, Ukulelen, Mandoline, singender Säge, Waschbrett, Cajon. Wer weiss, vielleicht auch mal auf der Autoharp oder anderen Instrumenten… Sie experimentieren mit Instrumenten und arrangieren und suchen mit Freude neue Songs aus vergangenen Zeiten.</p>
+    </div>
+
+    <h3>Wir spielen im Duo und erweitern die Band bei Gelegenheit mit Gastmusikern.</h3>
+    <p>Die B&W Chocolate Howlers spielen vor allem Songs aus den 20er Jahren („Pre(-war)-Blues", Ragtime, Swing, early Jazz, etc) sowie hie und da neueres Liedgut (z.B. Chanson).</p>
+    <p>Als String Band tun sie dies ausschliesslich auf akustischen Instrumenten (Gitarren, akustische Bassgitarre, Mandoline, Ukulele, Waschbrett, Cajon, Melodica, Singende Säge). Je nach Anlass haben wir Gastmusiker (Harp, Fiddle, Drums, Percussion) dabei.</p>
+
+    <h3>Hall of Fame</h3>
+    <p class="hall-of-fame-intro">Viele wunderbare Musiker haben uns auf unserem Weg begleitet</p>
+
+    <div class="generations">
+      <div class="generation">
+        <h4>2020 – heute: 6. Generation</h4>
+        <ul>
+          <li>Irène Capello – Ukulele, Banjolele, Singing Saw, Bass, Washboard, Cajón, Vocals</li>
+          <li>Christof Länzlinger – Guitar, Bass, Mandolin, Ukulele, Vocals</li>
+        </ul>
+      </div>
+      <div class="generation">
+        <h4>2015 – Oktober 2020: 5. Generation</h4>
+        <ul>
+          <li>Frank Ziegler – Guitars, Mandolin, Banjo, Vocals</li>
+          <li>Irène Capello – Ukulele, Banjolele, Singing Saw, Accordion, Vocals</li>
+          <li>Christof Länzlinger – Bass, Guitar, Ukulele</li>
+        </ul>
+        <p>Gast-Musiker: Robert Koch (Harp, FR), Yogi Jockusch (Percussion, DE), Jos Leijen (Harp, NL), Aaron Till (Fiddle, USA), Seraina Bütikofer (Fiddle, CH), Reto Heggetschweiler (Percussion, CH), Hannes Hayoz (Susaphon/Jug, CH), Markus Schneiter (Harp/Percussion, CH), Lüdolf van Krimpen (Drums, CH)</p>
+      </div>
+      <div class="generation">
+        <h4>2014 – 2015: 4. Generation</h4>
+        <ul>
+          <li>Frank Ziegler – Guitars, Mandolin, Banjo, Vocals</li>
+          <li>Irène Capello – Ukulele, Banjolele, Singing Saw, Accordion, Vocals</li>
+          <li>Christof Länzlinger – Bass, Guitar, Ukulele</li>
+          <li>Gerhard Schindlberger – Fiddle</li>
+        </ul>
+      </div>
+      <div class="generation">
+        <h4>2014: 3. Generation</h4>
+        <ul>
+          <li>Frank Ziegler – Guitars, Mandolin, Banjo, Vocals</li>
+          <li>Irène Capello – Ukulele, Banjolele, Singing Saw, Accordion, Vocals</li>
+          <li>Christof Länzlinger – Bass, Guitar, Ukulele</li>
+          <li>Hannes Hayoz – Susaphon, Jug, Percussion</li>
+          <li>Christa Windler – Fiddle</li>
+          <li>Felix Wäspi – Flute, Tenorguitar</li>
+        </ul>
+      </div>
+      <div class="generation">
+        <h4>2013 – 2014: 2. Generation</h4>
+        <ul>
+          <li>Frank Ziegler – Guitars, Mandolin, Banjo, Vocals</li>
+          <li>Irène Capello – Ukulele, Banjolele, Singing Saw, Vocals</li>
+          <li>Christine Rüegger – Fiddle</li>
+          <li>Reto Hegetschweiler – Percussion</li>
+          <li>Christof Länzlinger – Bass, Guitar, Ukulele</li>
+          <li>Hannes Hayoz – Susaphon, Jug, Percussion</li>
+        </ul>
+      </div>
+      <div class="generation">
+        <h4>2011 – 2013: 1. Generation</h4>
+        <ul>
+          <li>Frank Ziegler – Guitars, Mandolin, Banjo, Vocals</li>
+          <li>Irène Capello – Ukulele, Banjolele, Singing Saw, Vocals</li>
+          <li>Christine Rüegger – Fiddle</li>
+          <li>Reto Hegetschweiler – Percussion</li>
+          <li>Michi Sander – Bass, Guitar, Accordeon</li>
+          <li>Hannes Hayoz – Susaphon, Jug, Percussion</li>
+        </ul>
+      </div>
+      <div class="generation">
+        <h4>2009 – 2011: Lakeside Howlers</h4>
+        <ul>
+          <li>Stefan Suter – Guitars, Vocals</li>
+          <li>Frank Ziegler – Guitars, Mandolin, Vocals</li>
+          <li>Irène Capello – Ukulele, Singing Saw, Vocals</li>
+          <li>Anne Oberli – Fiddle</li>
+          <li>Gabriel Desault – Percussion</li>
+          <li>Marco Leali – Bass</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<!--#include virtual="partials/footer.html" -->
+
+</body>
+</html>

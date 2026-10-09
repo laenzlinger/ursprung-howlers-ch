@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Videos – B&W Chocolate Howlers Archiv</title>
+  <meta name="description" content="Videos der B&W Chocolate Howlers: 6 eingebettete YouTube-Videos mit Live-Auftritten und Jam Sessions.">
+  <link rel="icon" href="favicon.jpg">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!--#include virtual="partials/header.html" -->
+
+<main>
+
+<!-- VIDEOS -->
+<section id="videos">
+  <h2>Videos</h2>
+  <div class="content">
+    <div class="video-grid">
+      <div class="video-wrapper"><iframe src="https://www.youtube.com/embed/46Yj4S-0O6M" title="B&W Chocolate Howlers Video 1" allowfullscreen loading="lazy"></iframe></div>
+      <div class="video-wrapper"><iframe src="https://www.youtube.com/embed/JabNHFKmh7Y" title="B&W Chocolate Howlers Video 2" allowfullscreen loading="lazy"></iframe></div>
+      <div class="video-wrapper"><iframe src="https://www.youtube.com/embed/w2pP-_iHTLM" title="B&W Chocolate Howlers Video 3" allowfullscreen loading="lazy"></iframe></div>
+      <div class="video-wrapper"><iframe src="https://www.youtube.com/embed/IPpva4N-TTI" title="B&W Chocolate Howlers Video 4" allowfullscreen loading="lazy"></iframe></div>
+      <div class="video-wrapper"><iframe src="https://www.youtube.com/embed/j2fSgOsyCr4" title="B&W Chocolate Howlers Video 5" allowfullscreen loading="lazy"></iframe></div>
+      <div class="video-wrapper"><iframe src="https://www.youtube.com/embed/OhKGkpzRSRg" title="B&W Chocolate Howlers Video 6" allowfullscreen loading="lazy"></iframe></div>
+    </div>
+    <p>Mehr Videos auf unserem <a href="https://www.youtube.com/channel/UCIA32UXxGweBvlqUq-mbbOQ" rel="noopener">YouTube-Kanal</a>.</p>
+  </div>
+</section>
+
+</main>
+
+<!--#include virtual="partials/footer.html" -->
+
+</body>
+</html>
